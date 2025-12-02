@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HankElmhurst
+👋 Hi, I’m @HankElmhurst
 
 Mid-career data professional and current M.S. in Data Science student at the University of Virginia (expected Aug 2026).  
 I previously spent more than a decade at the U.S. Census Bureau working on large-scale federal economic data systems.
