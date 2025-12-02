@@ -29,7 +29,7 @@ I previously spent more than a decade at the U.S. Census Bureau working on large
 - **King_County_WA_Housing_Analysis** – Private repository (available on request): end-to-end housing price analysis using public King County data, including ETL, feature engineering, regression models, diagnostics, and a fully documented report.  
 - **DS5100_Final_Project** – Monte Carlo simulation of simple games in Python (UVA course project).  
 - **HW09-DSS100** – Early Python exercises from introductory programming coursework.
-- Additional Projects Coming
+- Additional Projects will be made available
 
 ## Contact
 
