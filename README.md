@@ -5,13 +5,13 @@ I previously spent more than a decade at the U.S. Census Bureau working on large
 
 ## What I focus on
 
-- **Applied data science & analytics**
+- **Applied Data Science & Analytics**
   - Cleaning and structuring messy real-world data
   - Building interpretable models for policy, compliance, and business decisions
-- **Decision / risk systems**
+- **Decision / Risk Systems**
   - Public-sector and civic analytics (economic statistics, public health, investigations)
   - Operations, forecasting, and resource-allocation problems
-- **Current graduate work**
+- **Current Graduate Work**
   - Bayesian inference and decision theory
   - Statistical inference/ Machine Learning  
   - Data structures, relational databases, and ETL  
