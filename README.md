@@ -15,7 +15,7 @@ I previously spent more than a decade at the U.S. Census Bureau working on large
   - Bayesian inference and decision theory
   - Statistical inference/ Machine Learning  
   - Data structures, relational databases, and ETL  
-  - Introductory text / document analysis (NLP foundations)
+  - Text / Documentation Analysis (NLP foundations)
 
 ## Tools & languages
 
