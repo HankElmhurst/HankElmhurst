@@ -16,6 +16,8 @@ I previously spent more than a decade at the U.S. Census Bureau working on large
   - Statistical inference/ Machine Learning  
   - Data structures, relational databases, and ETL  
   - Text / Documentation Analysis (NLP foundations)
+  - Deep Learning, Neuro Networks
+  - Data Pipeline Development, CI/CD intergration and automation
 
 ## Tools & languages
 
